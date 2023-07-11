@@ -23,6 +23,8 @@ To run the code you will need to install Live Server (If you have Visual studio 
 1. You use webpage to type code in homie code to generate inputCode.txt in the download file 
 2. run the python script interpreter.py once inputCode.txt is generated, an output.py file should appear AllTheHTMLStuffBro folder 
 
+Or watch our guide video: https://studio.youtube.com/video/J0WskcKjHJ0/edit
+
 ## Installation
 Via https
 ```bash
