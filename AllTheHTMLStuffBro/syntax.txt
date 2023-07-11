@@ -1,0 +1,24 @@
+python-equivalent keywords  |   Homie Code syntax   |   example
+--------------------------------------------------------------------------
+Variable association        |   myhomie             |   myhomie num = 4
+                            |                       |
+Function Declaration        |   fudge               |   fudge sum(a,b):
+                            |                       |       whatdoyouwant("YOLO")
+                            |                       |
+For-loop                    |   fur                 |   fur (myhomie i = 0; i <10; i++):
+                            |                       |       whatdoyouwant("YOLO")
+                            |                       |
+While-loop                  |   keepgoing           |   keepgoing(somevar < 10):
+                            |                       |       whatdoyouwant("YOLO")
+                            |                       |       somevar++
+                            |                       |
+Print                       |   gundam              |   gundam("hello world")
+                            |                       |
+Input                       |   whatdoyouwant       |   myhomie inp = whatdoyouwant("Msg")
+                            |                       |
+If                          |   this                |   this (i < 0):
+                            |                       |       i++
+                            |                       |
+Else                        |   that                |   that:
+                            |                       |       whatdoyouwant("YOLO")
+

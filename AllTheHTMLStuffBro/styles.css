@@ -1,0 +1,63 @@
+/*
+    margin and padding:
+
+    Apply to all four sides 
+    top and bottom | left and right 
+    top | right | bottom | left 
+
+*/
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+body {
+    padding: 50px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Play', sans-serif;
+    background-image: url('Background-.png');
+    width: 100%;
+    height: 200%;
+}
+
+#navigator {
+    margin: 50px auto;
+    padding: 30px auto;
+    opacity: 0.85;
+}
+
+a {
+    margin-right: 8%;
+    margin-left: 8%;
+    padding-top: 30px auto;
+    color: aliceblue;
+}
+
+#container {
+    align-items: center;
+}
+
+#test {
+    padding-right: 120px;
+}
+
+h1 {
+    font-size: medium;
+    color: aliceblue;
+}
+
+textarea {
+    width:100%; 
+    height: 250px; 
+    margin:10px 0;
+    opacity: 0.85;
+}
+
+#submit, #btn_container {
+    border-radius: 15px;
+    cursor: pointer;
+}
