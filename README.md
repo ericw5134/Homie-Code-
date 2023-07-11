@@ -16,6 +16,7 @@ Homie Code is a translator program. The design and concept of our project is to 
 
 ## Requirements
 **This project requires Live Server to run**
+
 To run the code you will need to install Live Server (If you have Visual studio Code simply download the Live Server extension) on your device. If you don’t have Live Server, then download from this link: https://github.com/tapio/live-server.
 
 ## Instructions
