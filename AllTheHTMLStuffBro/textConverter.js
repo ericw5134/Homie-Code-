@@ -22,11 +22,6 @@ function createText(){
 	submit_button.appendChild(viewlink);
 }
 
-
-
-/* 
-	reference: https://sumtips.com/snippets/javascript/tab-in-textarea/#js
-*/
 function insertTab(o, e)
 {		
 	var kC = e.keyCode ? e.keyCode : e.charCode ? e.charCode : e.which;
